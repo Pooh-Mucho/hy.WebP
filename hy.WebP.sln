@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hy.WebP", "hy.WebP\hy.WebP.csproj", "{49A8D312-6017-48FD-902A-5FD731CDF0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hy.WebP.Test", "Hy.WebP.Test\Hy.WebP.Test.csproj", "{ED39F749-ADB6-42B6-9E7F-AF6C2C7F03AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A8D312-6017-48FD-902A-5FD731CDF0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A8D312-6017-48FD-902A-5FD731CDF0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A8D312-6017-48FD-902A-5FD731CDF0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A8D312-6017-48FD-902A-5FD731CDF0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED39F749-ADB6-42B6-9E7F-AF6C2C7F03AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED39F749-ADB6-42B6-9E7F-AF6C2C7F03AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED39F749-ADB6-42B6-9E7F-AF6C2C7F03AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED39F749-ADB6-42B6-9E7F-AF6C2C7F03AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
